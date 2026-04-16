@@ -1,3 +1,1 @@
-Hello Git
-Feature Work
-This is feature1 work
+change from conflict branch
